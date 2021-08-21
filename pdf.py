@@ -12,7 +12,7 @@ for i in range(template.getNumPages()):
   with open('watermarked_output.pdf', 'wb') as file:
     output.write(file)
 # import sys
-
+# new comment
 # inputs = sys.argv[1:]
 
 # #this function combines multiple pdfs into one
